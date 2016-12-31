@@ -1,5 +1,7 @@
 # non-overwhelming-machine-learning
-A (non overwhelming) list of Machine Learning resources for beginners. Complete the list in chronological order and you'll be able to understand machine-learning in no time!
+A (non overwhelming) list of Machine Learning resources for beginners. 
+
+So you decide to follow the herd? Complete the list in chronological order and you'll be able to understand machine-learning in no time.
 
 *Less is more*
 
@@ -11,7 +13,7 @@ A (non overwhelming) list of Machine Learning resources for beginners. Complete 
 
 ### 3. [Optimization](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc/optimization-calc/e/optimization)
 
-## Getting your feet wet (don't worry, its not too hard!)
+## Getting your feet wet
 
 ### 1. [Deep Learning @ Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
