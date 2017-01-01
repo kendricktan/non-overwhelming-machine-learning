@@ -15,8 +15,10 @@ So you decide to follow the herd? Complete the list in chronological order and y
 
 ## Getting your feet wet
 
-### 1. [Deep Learning @ Udacity](https://www.udacity.com/course/deep-learning--ud730)
+### 1. [Intro to Machine Learning UD120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
-### 2. [CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+### 2. [Deep Learning @ Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
-### 3. [CS224d - Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+### 3. [CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+### 4. [CS224d - Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
